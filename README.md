@@ -56,7 +56,7 @@ The goal of this project is to clean and prepare the dataset for analysis by:
 1. Run the cleaning script:
 
    ```bash
-   python clean_data.py
+   python DataCleaning(MedicalAppointmentData).ipynb
    ```
 
 2. Output:
